@@ -1,0 +1,133 @@
+A TÁRGY FÉLÉVES PROJEKTJÉNEK KÖVETELMÉNYEI
+
+
+1. CSAPATOK KIALAKÍTÁSA
+
+- A projektet alapvetően 4 fős csapatokban kell elkészíteni.
+- 3 fős csapatok is kialakíthatók, azonban ebben az esetben ugyanazokat a követelményeket kell teljesíteniük, mint a 4 fős csapatoknak.
+- 5 fős csapat esetén a csapatnak összetettebb, nagyobb léptékű projektet kell választania.
+- Minden csapatnak rendelkeznie kell egy egyedi csapatnévvel.
+- Minden csapatnak rendelkeznie kell egy csapatvezetővel.
+- A csapatvezető feladata a csapat munkájának koordinálása és a Trello-tábla kezelése.
+- A félév során legyen látható és követhető a csapat munkájának koordinálása.
+- A csapatokat a 3. óra elejéig véglegesíteni kell. Ezt követően a csapatok rögzítésre kerülnek.
+
+
+2. A PROJEKT CÉLJA
+
+- A csapatoknak a félév végére egy komplett, működő szoftvert kell elkészíteniük.
+- A projektnek rendelkeznie kell egy jól meghatározható céllal és felhasználási területtel.
+- A félév során a projektnek folyamatosan fejlődnie kell.
+- A félév végére egy működő és bemutatható szoftvert kell létrehozni.
+
+
+3. FÉLÉVKÖZI DEMO
+
+- A félév közepén minden csapatnak kötelező projektbemutatót (demo) kell tartania.
+- A demo időpontjáig egy .ppt formátumú prezentációban meg kell határozni:
+  - a projekt célját;
+  - a célközönséget/felhasználói kört;
+  - a főbb funkciókat;
+  - a tervezett működést.
+- A csapatoknak ezeket a terveket a többi hallgató előtt röviden be kell mutatniuk.
+- A félévközi demo nem jár ponttal, azonban teljesítése kötelező.
+- A demót egyetlen csapattag is megtarthatja, de a bemutató megosztható a csapattagok között.
+
+
+4. FÉLÉV VÉGI PREZENTÁCIÓ
+
+- A félév végén minden csapatnak be kell mutatnia a teljes elkészült projektet.
+- A bemutató során ismertetni kell:
+  - a projekt célját;
+  - a megvalósított funkciókat;
+  - a felhasznált technológiákat;
+  - a projekt működését;
+  - a csapat munkáját;
+  - az egyes csapattagok hozzájárulását.
+
+
+5. TRELLO
+
+- Minden csapatnak rendelkeznie kell saját Trello-táblával.
+- A Trello-táblát a teljes félév során aktívan kell használni.
+- A táblán láthatónak kell lennie, hogy a feladatkezelés folyamatosan történt.
+- Minden csapattagnak rendelkeznie kell saját, hozzá rendelt feladatokkal.
+- A feladatok állapotának változásából követhetőnek kell lennie a projekt fejlődésének.
+- A Trello-táblán legalább 20 feladatnak (ticketnek) kell szerepelnie.
+- A feladatok legyenek kellően részletesek és egyértelműek.
+- A Trello-táblán legalább az alábbi oszlopoknak kell szerepelniük:
+  - Teendők
+  - Folyamatban
+  - Tesztelés
+  - Kész
+- A csapat igényei alapján további oszlopok is létrehozhatók.
+- A feladatokból legyen látható:
+  - mit kell megvalósítani;
+  - ki felel érte;
+  - milyen állapotban van;
+  - elkészült-e.
+
+
+6. GIT / GITHUB
+
+- Minden csapatnak rendelkeznie kell saját GitHub repositoryval.
+- A repositoryt a félév során a projekt fejlesztésére és verziókövetésére kell használni.
+- A repository hozzáférését e-mailben meg kell osztani az oktatóval:
+  makar.peter98@gmail.com
+- Minden csapattagnak a félév végéig legalább egy commitot kell létrehoznia a projekt repositoryjában.
+- A Git repository használata során törekedni kell arra, hogy a fejlesztési folyamat és az egyes csapattagok munkája követhető legyen.
+
+
+7. A PROJEKT MINIMÁLIS KÖVETELMÉNYEI
+
+A projektnek az alábbi követelményeknek kell megfelelnie:
+
+- Igényes és használható felhasználói felület, több almenüvel és logikus navigációval.
+- Adatbázis-kezelés, amelynek technológiája szabadon választható.
+- Valamilyen nem triviális üzleti logika megvalósítása.
+- A projekt ne csupán egyszerű adatrögzítésből és adatmegjelenítésből álljon.
+- A projektnek rendelkeznie kell tesztesetekkel.
+- A szoftvernek a félév végére működőképes állapotban kell lennie.
+
+
+8. CSAPATOK ÉS DEMÓZÁS
+
+- A csapatok tagjai különböző gyakorlati csoportokból is érkezhetnek.
+- Ajánlott, hogy a csapatok lehetőség szerint egy csoporton belül maradjanak, ez azonban nem kötelező.
+- Amennyiben egy csapat több csoport hallgatóiból áll, a csapat abban a csoportban demózik, ahol a csapattagok nagyobb része tartózkodik.
+- A félévközi és a félév végi demo alkalmával minden csapattagnak jelen kell lennie.
+
+
+9. JEGYSZERZÉS
+
+- A csapatok a végső projektmunka és a prezentáció minősége alapján kapnak pontot.
+- Az adott csapat által megszerezhető maximális pontszám:
+
+  csapattagok száma x 5 pont
+
+- A megszerzett pontokat a csapattagok egymás között osztják szét.
+- A pontok elosztásánál lehetőség van egyenlő és eltérő értékelésre is.
+
+Példa:
+
+Egy 4 fős csapat maximálisan 20 pontot szerezhet.
+
+Ha a csapat 17 pontot kapott, azt például így oszthatja szét:
+
+- 4 + 4 + 4 + 5 = 17
+- 5 + 5 + 4 + 3 = 17
+- 5 + 5 + 5 + 2 = 17
+
+- A pontok elosztásának tükröznie kell a csapattagok által végzett munka arányát.
+- A pontokat az utolsó óra vége előtt kell véglegesíteni.
+- A pontok elosztását a vizsgát követően már nem lehet módosítani vagy újra megbeszélni.
+
+
+10. VÉGSŐ JEGY
+
+- A végső érdemjegy a vizsga és a gyakorlati jegy átlagából kerül meghatározásra.
+- Az átlag felfelé kerekítve adja a végső jegyet.
+- A szakmai gyakorlathoz kapcsolódó pontok a választás alapján:
+  - a gyakorlati pontszámhoz, vagy
+  - a vizsgapontszámhoz
+  adhatók hozzá.
