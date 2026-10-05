@@ -48,6 +48,7 @@ A TÁRGY FÉLÉVES PROJEKTJÉNEK KÖVETELMÉNYEI
 
 5. TRELLO
 
+- https://trello.com/
 - Minden csapatnak rendelkeznie kell saját Trello-táblával.
 - A Trello-táblát a teljes félév során aktívan kell használni.
 - A táblán láthatónak kell lennie, hogy a feladatkezelés folyamatosan történt.
@@ -55,6 +56,7 @@ A TÁRGY FÉLÉVES PROJEKTJÉNEK KÖVETELMÉNYEI
 - A feladatok állapotának változásából követhetőnek kell lennie a projekt fejlődésének.
 - A Trello-táblán legalább 20 feladatnak (ticketnek) kell szerepelnie.
 - A feladatok legyenek kellően részletesek és egyértelműek.
+- A trello táblába meg kell hívni engem is: makar.peter98@gmail.com
 - A Trello-táblán legalább az alábbi oszlopoknak kell szerepelniük:
   - Teendők
   - Folyamatban
@@ -136,5 +138,6 @@ Ha a csapat 17 pontot kapott, azt például így oszthatja szét:
 
 Félévközi prezentáció: 
 - szoftverdemó
+- vezetett trello tábla
 - ppt prezentáció
 - Október 26
