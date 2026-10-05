@@ -56,7 +56,7 @@ A TÁRGY FÉLÉVES PROJEKTJÉNEK KÖVETELMÉNYEI
 - A feladatok állapotának változásából követhetőnek kell lennie a projekt fejlődésének.
 - A Trello-táblán legalább 20 feladatnak (ticketnek) kell szerepelnie.
 - A feladatok legyenek kellően részletesek és egyértelműek.
-- A trello táblába meg kell hívni engem is: makar.peter98@gmail.com
+- A trello táblába meg kell hívni az oktatót is: makar.peter98@gmail.com
 - A Trello-táblán legalább az alábbi oszlopoknak kell szerepelniük:
   - Teendők
   - Folyamatban
